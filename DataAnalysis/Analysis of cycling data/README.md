@@ -1,1 +1,3 @@
+## Analysis of cycling data
 
+The datasets to carry out analysis on cycling data are obtained from my ride data from Strava and GoldenCheetah which provides analytics services over ride data. In first part of the project explores the distributions of some key variables such as time, distance, average speed, average power, workout type etc and investigate the relationships between the concerned variables to determine which variables are corrolated with each other. The second part of the project explores relationship between rides and weather to see if there is any relationship between distance travelled per ride and average speed with the temperature. Datasets required for this are obtained from Bureau of Meterology.
