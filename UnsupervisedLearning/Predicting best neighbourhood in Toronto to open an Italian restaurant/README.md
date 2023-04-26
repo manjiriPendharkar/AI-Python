@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Predicting best neighbourhood in Toronto to open an Italian restaurant
 
 ### Business problem
 Italian cuisine is undoubtly one of most famous cuisine. However, from the perspective of an investor or a chef dreaming of opening his/her own italian restaurant, it is a remarkable challenge in getting into the market due to the highly saturated supply of Italian food.
